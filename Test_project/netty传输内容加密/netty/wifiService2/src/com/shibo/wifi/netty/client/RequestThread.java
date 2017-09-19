@@ -1,0 +1,41 @@
+package com.shibo.wifi.netty.client;
+
+public class RequestThread implements Runnable
+{
+
+    
+
+    @Override
+    public void run()
+    {
+
+        while (ProcesQueue.getInstance().requestSize()>0)
+        {
+            if (HandleService.channel == null)
+            {
+               
+                try
+                {
+                    System.out.println("没值等待中");
+                    Thread.sleep(1000);
+                }
+                catch (InterruptedException e)
+                {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+            }
+            else
+            {
+             String str=ProcesQueue.getInstance().getRequest(); 
+                   // System.out.println(str);
+                    HandleService.doSendMsgStr(str);      
+                
+              
+          
+            }
+        }
+
+    }
+
+}

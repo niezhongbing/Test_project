@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/gmbal-api-only.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/ha-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxws-rt.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jaxws-tools.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/management-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/mimepull.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/policy.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/saaj-impl.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/stax2-api.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/stax-ex.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/streambuffer.jar"/>
+	<classpathentry kind="lib" path="H:/视频/web service/webservice/jar/jaxws-ri-2.2.8/jaxws-ri/lib/woodstox-core-asl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
